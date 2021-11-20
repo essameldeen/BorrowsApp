@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.objectbox:objectbox-windows:2.3.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.objectbox/objectbox-windows/2.3.4/f606283a828ba0f2b786da9342276f2a960a9218/objectbox-windows-2.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.objectbox/objectbox-windows/2.3.4/ed38d5cce466082ba31ab6e5952fd795a9ac241c/objectbox-windows-2.3.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Borrow</string>
+  <string name="borrowed_item">Borrowed Item</string>
+  <string name="borrower_name">Borrower Name</string>
+  <string name="set_borrowed_date">Set Borrowed Date</string>
+  <string name="delete">Delete</string>
+  <string name="sort_by">Sort by</string>
+  <string name="date_added">Date Borrowed</string>
+  <string name="name">Name</string>
+  <string name="search">Search</string>
+  <string name="splash_image">Splash Image</string>
+</resources>
